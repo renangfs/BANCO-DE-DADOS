@@ -9,4 +9,5 @@ acessar o conteudo interativo antes da aula
 ### Quando temos um sistema que gerencia o banco de dados temos um  SGBD
 
 ### SGB= SISTEMA GERENCIADOR DE BANCOS DE DADOS
+é uma coleção de programas que permite aos usuarios criar e manter um banco de dados
 
