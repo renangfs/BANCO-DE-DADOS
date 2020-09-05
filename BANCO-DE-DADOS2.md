@@ -6,6 +6,6 @@ Aprender SQL
 acessar o conteudo interativo antes da aula
 
 
-![github-small](https://renangfs77.000webhostapp.com/imagens/images.jpg)
+![github-small](https://photos.google.com/photo/AF1QipM--9aGs9OHxtcP-KMfy3VAqVkMPn22npJ5noog)
 
 
