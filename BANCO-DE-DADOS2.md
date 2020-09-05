@@ -25,3 +25,6 @@ acessar o conteudo interativo antes da aula
 
 - Meta dados são dados sobre dados
 
+![Anotação 2020-09-05 000000](https://user-images.githubusercontent.com/61218420/92296410-c7432800-ef0a-11ea-8bce-6ddbee63aa5a.jpg)
+
+
