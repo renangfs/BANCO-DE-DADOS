@@ -11,3 +11,9 @@ acessar o conteudo interativo antes da aula
 ### SGB= SISTEMA GERENCIADOR DE BANCOS DE DADOS
 é uma coleção de programas que permite aos usuarios criar e manter um banco de dados
 
+Oracle
+
+MySQL
+
+MICROSOFT SQL Server
+
