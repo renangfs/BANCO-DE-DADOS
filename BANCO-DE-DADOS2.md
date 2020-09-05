@@ -23,3 +23,5 @@ acessar o conteudo interativo antes da aula
 
 ![Anotação 2020-09-04 235003](https://user-images.githubusercontent.com/61218420/92296275-69faa700-ef09-11ea-8add-151671f3dfcd.jpg)
 
+- Meta dados são dados sobre dados
+
