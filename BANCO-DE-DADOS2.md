@@ -7,7 +7,7 @@ acessar o conteudo interativo antes da aula
 
 
 
- ![github-small](https://user-images.githubusercontent.com/61218420/92293734-2d747e80-eefc-11ea-8d6f-459110114990.jpg)
+<img src="https://user-images.githubusercontent.com/61218420/92293734-2d747e80-eefc-11ea-8d6f-459110114990.jpg"> width=700>
 
 ### Quando temos um sistema que gerencia o banco de dados temos um  SGBD
 
@@ -20,11 +20,12 @@ acessar o conteudo interativo antes da aula
 
 - 3-MICROSOFT SQL Server
 
+<img src="https://user-images.githubusercontent.com/61218420/92296275-69faa700-ef09-11ea-8add-151671f3dfcd.jpg"> width=700>
 
-![Anotação 2020-09-04 235003](https://user-images.githubusercontent.com/61218420/92296275-69faa700-ef09-11ea-8add-151671f3dfcd.jpg)
 
 - Meta dados são dados sobre dados
 
-![Anotação 2020-09-05 000000](https://user-images.githubusercontent.com/61218420/92296410-c7432800-ef0a-11ea-8bce-6ddbee63aa5a.jpg)
+<img src="https://user-images.githubusercontent.com/61218420/92296410-c7432800-ef0a-11ea-8bce-6ddbee63aa5a.jpg"> width=700>
+
 
 
