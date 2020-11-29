@@ -21,6 +21,14 @@ CREATE TABLE `piloto` (
   `Psexo` char(1),
   `PDtNascimento` varchar(10) NOT NULL,
   `Pnacionalidade` varchar(70) NOT NULL,
-  `EqNum` int(4),
+  `EqNum` int(4) NOT NULL ,
   PRIMARY KEY (`PNum`),
   FOREIGN KEY (`EqNum`) references equipe (`EqNum`))
+  
+  
+  CREATE TABLE `autodromo` (
+  `ANum` int(6) NOT NULL ,
+  `ANome` varchar(30) NOT NULL,
+  `ACidade` varchar(30) NOT NULL,
+  `APais` varchar(30) NOT NULL,
+  PRIMARY KEY (`ANum`))
