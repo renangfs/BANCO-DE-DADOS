@@ -4,15 +4,12 @@ SELECT * FROM EQUIPE<br>
 WHERE EQNUM>2
 
 
-
-
 CREATE TABLE `equipe` (
   `EqNum` int(4) NOT NULL AUTO_INCREMENT,
   `EqNome` varchar(50) NOT NULL,
   `EqNacionalidade` varchar(70) NOT NULL,
   PRIMARY KEY (`EqNum`)
 ) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=latin1
-
 
 
 CREATE TABLE `piloto` (
@@ -32,3 +29,19 @@ CREATE TABLE `piloto` (
   `ACidade` varchar(30) NOT NULL,
   `APais` varchar(30) NOT NULL,
   PRIMARY KEY (`ANum`))
+  
+  
+  CREATE TABLE `corrida` (
+  `CNum` int(6) NOT NULL,
+  `ANum` int(6) NOT NULL,
+  `PNum` int(6) NOT NULL,
+  `Data` int(10) NOT NULL,
+  `Colocacao` int(100) NOT NULL,
+  `TempoTotal` int(30) NOT NULL,
+  PRIMARY KEY (`CNum`),
+  KEY `ANum` (`ANum`),
+  KEY `PNum` (`PNum`),
+  CONSTRAINT `corrida_ibfk_1` FOREIGN KEY (`ANum`) REFERENCES `autodromo` (`ANum`),
+  CONSTRAINT `corrida_ibfk_2` FOREIGN KEY (`PNum`) REFERENCES `piloto` (`PNum`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1
+  
