@@ -1,1 +1,4 @@
-## select * from professor
+SELECT * FROM trabalho_av2.equipe
+
+SELECT * FROM EQUIPE
+WHERE EQNUM>2
