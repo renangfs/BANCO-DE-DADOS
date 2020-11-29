@@ -15,11 +15,12 @@ CREATE TABLE `equipe` (
 
 
 
-CREATE TABLE `PILOTO` (
+CREATE TABLE `piloto` (
   `PNum` int(6) NOT NULL AUTO_INCREMENT,
   `PNome` varchar(30) NOT NULL,
-  `Psexo` varchar(1) NOT NULL,
-  `PDtNascimento` varchar(10),
-  `Pnacionalidade` varchar(70),
-  PRIMARY KEY (`PNum`)
-) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=latin1
+  `Psexo` char(1),
+  `PDtNascimento` varchar(10) NOT NULL,
+  `Pnacionalidade` varchar(70) NOT NULL,
+  `EqNum` int(4),
+  PRIMARY KEY (`PNum`),
+  FOREIGN KEY (`EqNum`) references equipe (`EqNum`))
