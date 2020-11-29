@@ -1,4 +1,4 @@
 SELECT * FROM trabalho_av2.equipe
 
-SELECT * FROM EQUIPE
+SELECT * FROM EQUIPE<br>
 WHERE EQNUM>2
