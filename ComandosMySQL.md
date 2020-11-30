@@ -48,4 +48,7 @@ _______________________________________________________________________
 insert into equipe values (4,"SPEED","Egito")
 
 select * from equipe
+
+select Anum,Acidade from autodromo
+order by ANum desc
   
