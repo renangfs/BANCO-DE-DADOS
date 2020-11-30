@@ -35,7 +35,7 @@ CREATE TABLE `piloto` (
   `CNum` int(6) NOT NULL,
   `ANum` int(6) NOT NULL,
   `PNum` int(6) NOT NULL,
-  `Data` int(10) NOT NULL,
+  `Data` VARCHAR(10) NOT NULL,
   `Colocacao` int(100) NOT NULL,
   `TempoTotal` int(30) NOT NULL,
   PRIMARY KEY (`CNum`),
