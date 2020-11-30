@@ -63,6 +63,35 @@ CREATE TABLE piloto (<br>
   FOREIGN KEY (PNum) REFERENCES piloto (PNum)v
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1
 
+1-select EqNacionalidade from equipe
 
+2-select PNome,Colocacao from Piloto,corrida
+
+3-select PNome,Eqnome from piloto,equipe;
+
+4-select Acidade,Apais from autodromo
+where Apais = "Australia"
+
+5-select Pnome,Pnacionalidade from Piloto
+where Pnacionalidade = "italia"
+
+6-select Pnome,EqNome from piloto,equipe
+where EqNome ="ferrari"
+
+7-select TempoTotal from corrida
+
+8-SELECT
+  Psexo,
+count(1)
+FROM
+  piloto
+GROUP BY
+  Psexo;
+
+9-SELECT PNOME,PNACIONALIDADE FROM PILOTO
+WHERE PNOME LIKE"R%"
+
+10-SELECT Data,Anome from autodromo,corrida
+WHERE DATA LIKE "28/07/2018"
 
 
