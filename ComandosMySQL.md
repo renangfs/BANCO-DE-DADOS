@@ -39,9 +39,7 @@ CREATE TABLE `piloto` (
   `Colocacao` int(100) NOT NULL,
   `TempoTotal` int(30) NOT NULL,
   PRIMARY KEY (`CNum`),
-  KEY `ANum` (`ANum`),
-  KEY `PNum` (`PNum`),
-  CONSTRAINT `corrida_ibfk_1` FOREIGN KEY (`ANum`) REFERENCES `autodromo` (`ANum`),
-  CONSTRAINT `corrida_ibfk_2` FOREIGN KEY (`PNum`) REFERENCES `piloto` (`PNum`)
+  FOREIGN KEY (`ANum`) REFERENCES `autodromo` (`ANum`),
+  FOREIGN KEY (`PNum`) REFERENCES `piloto` (`PNum`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1
   
