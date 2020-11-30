@@ -42,4 +42,10 @@ CREATE TABLE `piloto` (
   FOREIGN KEY (`ANum`) REFERENCES `autodromo` (`ANum`),
   FOREIGN KEY (`PNum`) REFERENCES `piloto` (`PNum`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1
+
+
+_______________________________________________________________________
+insert into equipe values (4,"SPEED","Egito")
+
+select * from equipe
   
