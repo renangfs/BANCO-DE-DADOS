@@ -53,4 +53,6 @@ select * from equipe
 
 select Anum,Acidade from autodromo
 order by ANum desc
+
+![image](https://user-images.githubusercontent.com/61218420/101342232-07df7400-3861-11eb-8f44-6783e2a0878c.png)
   
