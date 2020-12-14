@@ -7,6 +7,6 @@
 <img src="https://user-images.githubusercontent.com/61218420/102028453-1fe75400-3d89-11eb-864f-52125ae8ce65.png" width=700>
 <h4> Os comandos (CREATE DATABESE CADASTRO) e (CREATE TABLE PESSOAS) são comandos DDL </h4><hr>
 <img src="https://user-images.githubusercontent.com/61218420/102046310-d8c58700-3db9-11eb-8711-2020ef2b3112.png" width=500>
-<img src="https://user-images.githubusercontent.com/61218420/102061784-a411f980-3dd2-11eb-93c7-3d68c09c7412.png" width=700>
+<img src="https://user-images.githubusercontent.com/61218420/102061784-a411f980-3dd2-11eb-93c7-3d68c09c7412.png" width=700><hr>
 <img src="https://user-images.githubusercontent.com/61218420/102063117-62824e00-3dd4-11eb-812d-704bb9145917.png" width=400>
 
