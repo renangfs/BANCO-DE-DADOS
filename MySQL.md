@@ -6,3 +6,5 @@
 <h3> Usando o comando (describe pessoas;)</h3>
 <img src="https://user-images.githubusercontent.com/61218420/102028453-1fe75400-3d89-11eb-864f-52125ae8ce65.png" width=700>
 <hr>
+<h2> os comandos (CREATE DATABESE CADASTRO) e (CREATE TABLE PESSOAS) são comandos DDL </h2>
+<img src="https://user-images.githubusercontent.com/61218420/102046310-d8c58700-3db9-11eb-8711-2020ef2b3112.png" width=600>
