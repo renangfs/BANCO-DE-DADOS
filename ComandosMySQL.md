@@ -55,4 +55,42 @@ select Anum,Acidade from autodromo
 order by ANum desc
 
 ![image](https://user-images.githubusercontent.com/61218420/101342232-07df7400-3861-11eb-8f44-6783e2a0878c.png)
+
+<hr>
+
+alter table pessoas
+add column profissao varchar(10) AFTER nome;
+
+alter table pessoas
+modify column profissao varchar(30);
+
+alter table pessoas
+drop column profissao;
+
+desc pessoas
+
+insert into pessoas values
+(default,'Ana', '1975-12-22', 'F', '52.3', '1.45', 'EUA'),
+(default,'Pedro', '2000-07-15', 'M', '52.3', '1.45', 'Brasil'),
+(default,'Maria', '1999-05-30', 'F', '75.9', '1.70', 'Portugal');
+
+select * from pessoas
+
+
+
+
+create database cadastro
+default character set utf8
+default collate utf8_general_ci;
+
+create table pessoas(
+id int not null auto_increment,
+nome varchar(30) not null,
+nascimento date,
+sexo enum('M','F'),
+peso decimal(5,2),
+altura decimal(3,2),
+nacionalidade varchar(20) default 'Brasil',
+primary key (id)
+)default charset= utf8;
   
