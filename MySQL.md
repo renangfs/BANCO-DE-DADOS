@@ -4,4 +4,4 @@
 <h3>O simbolo do (;) indica o fim do comando</h3>
 
 <h3>describe pessoas;</h3>
-<img src="https://user-images.githubusercontent.com/61218420/102028453-1fe75400-3d89-11eb-864f-52125ae8ce65.png) width=400>
+<img src="https://user-images.githubusercontent.com/61218420/102028453-1fe75400-3d89-11eb-864f-52125ae8ce65.png" width=400>
