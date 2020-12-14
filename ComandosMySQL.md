@@ -58,39 +58,36 @@ order by ANum desc
 
 <hr>
 
-alter table pessoas
-add column profissao varchar(10) AFTER nome;
+alter table pessoas<br>
+add column profissao varchar(10) AFTER nome;<br>
 
-alter table pessoas
-modify column profissao varchar(30);
+alter table pessoas<br>
+modify column profissao varchar(30);<br>
 
-alter table pessoas
-drop column profissao;
+alter table pessoas<br>
+drop column profissao;<br>
 
-desc pessoas
+desc pessoas<br>
 
-insert into pessoas values
-(default,'Ana', '1975-12-22', 'F', '52.3', '1.45', 'EUA'),
-(default,'Pedro', '2000-07-15', 'M', '52.3', '1.45', 'Brasil'),
-(default,'Maria', '1999-05-30', 'F', '75.9', '1.70', 'Portugal');
+insert into pessoas values <br>
+(default,'Ana', '1975-12-22', 'F', '52.3', '1.45', 'EUA'),<br>
+(default,'Pedro', '2000-07-15', 'M', '52.3', '1.45', 'Brasil'),<br>
+(default,'Maria', '1999-05-30', 'F', '75.9', '1.70', 'Portugal');<br>
 
-select * from pessoas
+select * from pessoas<br>
 
+create database cadastro<br>
+default character set utf8<br>
+default collate utf8_general_ci;<br>
 
-
-
-create database cadastro
-default character set utf8
-default collate utf8_general_ci;
-
-create table pessoas(
-id int not null auto_increment,
-nome varchar(30) not null,
-nascimento date,
-sexo enum('M','F'),
-peso decimal(5,2),
-altura decimal(3,2),
-nacionalidade varchar(20) default 'Brasil',
-primary key (id)
-)default charset= utf8;
+create table pessoas(<br>
+id int not null auto_increment,<br>
+nome varchar(30) not null,<br>
+nascimento date,<br>
+sexo enum('M','F'),<br>
+peso decimal(5,2),<br>
+altura decimal(3,2),<br>
+nacionalidade varchar(20) default 'Brasil',<br>
+primary key (id)<br>
+)default charset= utf8;<br>
   
