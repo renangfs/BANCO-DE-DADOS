@@ -11,12 +11,14 @@
 <img src="https://user-images.githubusercontent.com/61218420/102061784-a411f980-3dd2-11eb-93c7-3d68c09c7412.png" width=700>
  <h4>Nesse codigo abaixo é possivel adicionar e excluir uma coluna em determinada tabela</h4>
 <img src="https://user-images.githubusercontent.com/61218420/102063948-6fec0800-3dd5-11eb-8c9e-c3ca9466dede.png" width=500>
-<h4>Nesse codigo abaixo alterar as contrange das colunas</h4>
+<h4>Nesse codigo abaixo alterar as definições das colunas</h4>
 <img src="https://user-images.githubusercontent.com/61218420/102064532-2fd95500-3dd6-11eb-9c22-510faf5fac49.png" width=500>
 <h4>No codigo abaixo é possivel alterar o nome da coluna</h4>
 <img src="https://user-images.githubusercontent.com/61218420/102064937-aaa27000-3dd6-11eb-8541-c4d58fdcf63b.png" width=500>
 <h4>No codigo abaixo é possivel alterar o nome da Tabela</h4>
 <img src="https://user-images.githubusercontent.com/61218420/102895691-e7f4a680-4443-11eb-91b2-8cbc0c24211f.png" width=300>
-
+<h4> O comando abaixo é feito para adicionar uma coluna em uma tabela e para excluir uma coluna exixtente é necessario usar o codigo <br>(alter table pessoas<br>
+drop column profissao)<br>
+<img src="https://user-images.githubusercontent.com/61218420/103179259-d27ae480-4868-11eb-814d-76dd9694fa84.png" width=500>
 
 
