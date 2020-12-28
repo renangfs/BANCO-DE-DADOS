@@ -23,6 +23,6 @@ drop column profissao)<br>
  <h4> esse comando é usado para manupular registros (linhas,tuplas)</h4>
 <img src="https://user-images.githubusercontent.com/61218420/103185682-366ad080-489c-11eb-8067-a083728ffedc.png" width=500>
  <h4> esse comando é usado para apagar registros </h4>
-<img src="https://user-images.githubusercontent.com/61218420/103185841-ed674c00-489c-11eb-9c40-fe6513e9388d.png" width=500>
+<img src="https://user-images.githubusercontent.com/61218420/103185841-ed674c00-489c-11eb-9c40-fe6513e9388d.png" width=300>
 
 
