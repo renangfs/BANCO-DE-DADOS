@@ -20,7 +20,9 @@
 <h4> O comando abaixo é feito para adicionar uma coluna em uma tabela e para excluir uma coluna exixtente é necessario usar o codigo <br>(alter table pessoas<br>
 drop column profissao)<br>
 <img src="https://user-images.githubusercontent.com/61218420/103179259-d27ae480-4868-11eb-814d-76dd9694fa84.png" width=500>
- <h4> esse comando é usado para manupular registros (linhas,tuplas) 
+ <h4> esse comando é usado para manupular registros (linhas,tuplas)</h4>
 <img src="https://user-images.githubusercontent.com/61218420/103185682-366ad080-489c-11eb-8067-a083728ffedc.png" width=500>
+ <h4> esse comando é usado para apagar registros </h4>
+<img src="https://user-images.githubusercontent.com/61218420/103185841-ed674c00-489c-11eb-9c40-fe6513e9388d.png" width=500>
 
 
