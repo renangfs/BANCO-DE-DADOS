@@ -26,5 +26,7 @@ drop column profissao)<br>
 <img src="https://user-images.githubusercontent.com/61218420/103185841-ed674c00-489c-11eb-9c40-fe6513e9388d.png" width=300>
  <h4> esse comando é para apagar todos registros de uma tabela </h4>
 <img src="https://user-images.githubusercontent.com/61218420/103186003-a037aa00-489d-11eb-8e50-4db86805b74c.png" width=300>
+ <h4> criando coluna e acrescentando chave estrangeira </h4>
+<img src="https://user-images.githubusercontent.com/61218420/103261244-8e2e3800-497f-11eb-9893-2fd7f829f5a9.png" width=500>
 
 
