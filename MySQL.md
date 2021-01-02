@@ -29,6 +29,9 @@ drop column profissao)<br>
 <img src="https://user-images.githubusercontent.com/61218420/103186003-a037aa00-489d-11eb-8e50-4db86805b74c.png" width=300>
  <h4> criando coluna e acrescentando chave estrangeira </h4>
 <img src="https://user-images.githubusercontent.com/61218420/103261244-8e2e3800-497f-11eb-9893-2fd7f829f5a9.png" width=400>
+
+<h4> selecionando junçoes de tabelas </h4>
+<img src="https://user-images.githubusercontent.com/61218420/103450617-e32bc000-4c97-11eb-8112-d0907d8d1991.png" width=500>
  
  <h2> Cardinalidades <br>
       um para muitos = muitos pega chave primaria de um<br>
