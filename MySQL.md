@@ -28,5 +28,11 @@ drop column profissao)<br>
 <img src="https://user-images.githubusercontent.com/61218420/103186003-a037aa00-489d-11eb-8e50-4db86805b74c.png" width=300>
  <h4> criando coluna e acrescentando chave estrangeira </h4>
 <img src="https://user-images.githubusercontent.com/61218420/103261244-8e2e3800-497f-11eb-9893-2fd7f829f5a9.png" width=400>
+ 
+ <h2> Cardinalidades <br>
+      um para muitos = muitos pega chave primaria de um<br>
+      muito para muitos = é criada uma nova entidade/relacionamento central<br>
+      um para um  = tentamos juntar as entidades </h2>
+
 
 
