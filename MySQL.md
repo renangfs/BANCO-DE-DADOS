@@ -17,7 +17,7 @@
 <img src="https://user-images.githubusercontent.com/61218420/102064937-aaa27000-3dd6-11eb-8541-c4d58fdcf63b.png" width=500>
 <h4>No codigo abaixo é possivel alterar o nome da Tabela</h4>
 <img src="https://user-images.githubusercontent.com/61218420/102895691-e7f4a680-4443-11eb-91b2-8cbc0c24211f.png" width=300>
-<h4> O comando abaixo é feito para adicionar uma coluna em uma tabela e para excluir uma coluna exixtente é necessario usar o codigo <br>(alter table pessoas<br>
+<h4> O comando abaixo é feito para adicionar uma coluna em uma tabela e para excluir uma coluna inexistente é necessario usar o codigo <br>(alter table pessoas<br>
 drop column profissao)<br>
 <img src="https://user-images.githubusercontent.com/61218420/103179259-d27ae480-4868-11eb-814d-76dd9694fa84.png" width=500>
  <h4> esse comando é usado para manupular registros (linhas,tuplas)</h4>
