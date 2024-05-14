@@ -13,5 +13,5 @@
 
 ![image](https://user-images.githubusercontent.com/61218420/93033614-5fc56080-f60d-11ea-91bb-072d062d1147.png)
 
-### indentificamos os atributos, intidades, relacionamento.
+### indentificamos os atributos, entidades, relacionamento.
 ![image](https://user-images.githubusercontent.com/61218420/93035850-8c30ab00-f614-11ea-97ce-9b4d8655be1a.png)
